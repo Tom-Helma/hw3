@@ -1,0 +1,2 @@
+This program takes noober data from the company's API and displays it in the console in a human readable format.
+Variables are created to store this data. The program uses conditional logic to see if the rider requested an Noober purple or if they have more than three riders in the group.
